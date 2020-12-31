@@ -1,0 +1,7 @@
+html,body {
+  margin: 40;
+  padding: 5;
+}
+canvas {
+  border: 1px dashed blue;
+}
